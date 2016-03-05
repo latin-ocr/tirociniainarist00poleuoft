@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tirociniainarist00poleuoft_0007.png"; bbox 0 0 1550 2671; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 319 370 956 429">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 319 370 956 429">
+     <span class='ocr_line' id='line_1_1' title="bbox 319 370 956 429; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 319 370 660 427; x_wconf 74' lang='lat' dir='ltr'>TIROCINIA</span> <span class='ocrx_word' id='word_1_2' title='bbox 704 372 956 429; x_wconf 69' lang='lat' dir='ltr'>Cffl&#39;rlCA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 718 1153 802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 718 1153 802">
+     <span class='ocr_line' id='line_1_2' title="bbox 116 718 1153 802; baseline 0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 116 718 679 800; x_wconf 55' lang='lat' dir='ltr'><strong>ARISTOTELIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 738 719 1153 802; x_wconf 73' lang='lat' dir='ltr'>POM&#39;HGA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 221 1089 1055 1130">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 221 1089 1055 1130">
+     <span class='ocr_line' id='line_1_3' title="bbox 221 1089 1055 1130; baseline 0 -7"><span class='ocrx_word' id='word_1_5' title='bbox 221 1089 427 1124; x_wconf 68' lang='lat' dir='ltr'>SPECIMEN</span> <span class='ocrx_word' id='word_1_6' title='bbox 454 1089 741 1124; x_wconf 66' lang='lat' dir='ltr'><strong>LITTEfflfflUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 768 1090 838 1124; x_wconf 55' lang='lat' dir='ltr'>lxx</span> <span class='ocrx_word' id='word_1_8' title='bbox 847 1090 894 1125; x_wconf 73' lang='lat' dir='ltr'>[G</span> <span class='ocrx_word' id='word_1_9' title='bbox 903 1090 925 1125; x_wconf 63' lang='grc' dir='ltr'>[Τ</span> <span class='ocrx_word' id='word_1_10' title='bbox 934 1090 1010 1124; x_wconf 59' lang='lat' dir='ltr'>ML</span> <span class='ocrx_word' id='word_1_11' title='bbox 1019 1090 1038 1124; x_wconf 76' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_12' title='bbox 1048 1119 1055 1130; x_wconf 73' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 373 1408 899 1448">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 373 1408 899 1448">
+     <span class='ocr_line' id='line_1_4' title="bbox 373 1408 899 1448; baseline 0.002 -1"><span class='ocrx_word' id='word_1_13' title='bbox 373 1409 417 1447; x_wconf 75' lang='grc' dir='ltr'>Β.</span> <span class='ocrx_word' id='word_1_14' title='bbox 457 1409 495 1448; x_wconf 58' lang='grc' dir='ltr'>«Ι.</span> <span class='ocrx_word' id='word_1_15' title='bbox 536 1408 899 1448; x_wconf 68' lang='lat' dir='ltr'><strong>POLENAAR.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

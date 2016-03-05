@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tirociniainarist00poleuoft_0003.png"; bbox 0 0 1550 2671; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 41 219 1326 332">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 41 219 1326 332">
+     <span class='ocr_line' id='line_1_1' title="bbox 41 219 1326 332; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 41 219 149 332; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_2' title='bbox 1213 222 1326 331; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 47 454 1210 1208">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 47 454 1210 1208">
+     <span class='ocr_line' id='line_1_2' title="bbox 357 454 1004 511; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 357 454 702 511; x_wconf 60' lang='lat' dir='ltr'><strong>TIROGINJA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 745 454 1004 511; x_wconf 59' lang='lat' dir='ltr'>CRITICA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 47 799 1210 891; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 47 806 81 891; x_wconf 60' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_6' title='bbox 159 800 727 882; x_wconf 59' lang='lat' dir='ltr'>ARls&#39;wTELIs</span> <span class='ocrx_word' id='word_1_7' title='bbox 788 799 1210 881; x_wconf 44' lang='lat' dir='ltr'><strong>P‹⁴›LITIGA.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 262 1170 1106 1208; baseline 0.004 -4"><span class='ocrx_word' id='word_1_8' title='bbox 262 1170 470 1206; x_wconf 62' lang='lat' dir='ltr'>svlwnucx</span> <span class='ocrx_word' id='word_1_9' title='bbox 497 1171 786 1206; x_wconf 48' lang='lat' dir='ltr'>121T&#39;r1111mn11m</span> <span class='ocrx_word' id='word_1_10' title='bbox 816 1171 1106 1208; x_wconf 57' lang='lat' dir='ltr'>[xatusmlflz.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 421 1466 949 1507">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 421 1466 949 1507">
+     <span class='ocr_line' id='line_1_5' title="bbox 421 1466 949 1507; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 421 1466 462 1506; x_wconf 68' lang='lat'>13.</span> <span class='ocrx_word' id='word_1_12' title='bbox 502 1467 540 1506; x_wconf 72' lang='grc'>,1.</span> <span class='ocrx_word' id='word_1_13' title='bbox 585 1466 949 1507; x_wconf 68' lang='lat' dir='ltr'>l‘OLENAAH.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1223 2219 1336 2331">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1223 2219 1336 2331">
+     <span class='ocr_line' id='line_1_6' title="bbox 1223 2219 1336 2331; baseline 0 340"><span class='ocrx_word' id='word_1_14' title='bbox 1223 2219 1336 2331; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
